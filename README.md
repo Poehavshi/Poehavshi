@@ -23,3 +23,5 @@ I'm Arkadiy, Data engineer, who working with AWS, Spark, Hadoop and some other s
 - 🤔 I’m looking for help with CLIP, GAN models 
 - 💬 Ask me about data engineering stuff
 - 📫 How to reach me: cotnikoarkady@gmail.com
+
+![](https://komarev.com/ghpvc/?username=Poehavshi)
