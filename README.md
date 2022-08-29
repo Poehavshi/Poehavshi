@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Arkadiy, Data engineer, who working with AWS, Spark, Hadoop and some other stuff
+I'm Arkadiy, Data engineer, who work with AWS, Spark, Hadoop and some other stuff
 
 - 🔭 I’m currently working on forecast datapipeline in AdTech
 - 🐈 My current pet project is Text2Image generation
