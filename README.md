@@ -19,7 +19,7 @@ I'm Arkadiy, Data engineer, who work with AWS, Spark, Hadoop and some other stuf
 
 - 🔭 I’m currently working on forecast datapipeline in AdTech
 - 🐈 My current pet project is Text2Image generation
-- 🌱 I’m currently learning Scala
+- 🌱 I’m currently learning rule based recommendation systems
 - 🤔 I’m looking for help with CLIP, GAN models 
 - 💬 Ask me about data engineering stuff
 - 📫 How to reach me: cotnikoarkady@gmail.com
