@@ -3,7 +3,7 @@
 I'm Arkadiy, Data/ML engineer, who work with AWS, Spark, Hadoop and some ML models like multimodal transformers
 
 - 🔭 I’m currently working on some HealthCare ML models
-- 🐈 My current pet project is Text2Image generation and Crime dashboard (project to find correlation between housing prices and crimes)
+- 🐈 My current pet projects are Text2Image generation and Crime dashboard (project to find correlation between housing prices and crimes)
 - 🌱 I’m currently creating decision support recommendation system
 - 💬 Ask me about data engineering, ML and healthcare stuff
 - 📫 How to reach me: cotnikoarkady@gmail.com
