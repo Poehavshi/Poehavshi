@@ -1,11 +1,10 @@
 ### Hi everyone!
 
-I'm Arkadiy, Data/ML engineer, who work with AWS, Spark, Hadoop and some ML models like multimodal transformers
+I'm Arkadiy, ML engineer, who work with AWS, Spark, Hadoop, MLFlow, Kubeflow and ML models like multimodal transformers, FM and CNN
 
-- 🔭 I’m currently working on some HealthCare ML models
 - 🐈 My current pet projects are Text2Image generation and Crime dashboard (project to find correlation between housing prices and crimes)
-- 🌱 I’m currently creating decision support recommendation system
-- 💬 Ask me about data engineering, ML and healthcare stuff
+- 🌱 I’m currently creating video content moderation system.
+- 💬 Ask me about data engineering, ML, CV and healthcare stuff
 - 📫 How to reach me: cotnikoarkady@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=Poehavshi)
